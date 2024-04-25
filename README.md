@@ -5,7 +5,7 @@ Below, you'll find a collection of the games I've created using Blender , Unity 
 ---
 <p>
   
-## Game 1 - VoidRunners 1
+## Game 1 - VoidRunners 1 [blender and unity]
 
 [Brief description of VoidRunners 1]
 <p>
@@ -15,7 +15,7 @@ Voidrunners" is a gripping sci-fi adventure game set in 2177. Players defy the c
 [Click Here to play the Game] <br>
 (https://megalord1977.github.io/VoidRunner-1-Videogame-/)
 
-## Game 2 - Asteroids
+## Game 2 - Asteroids [unity]
 
 [Brief description of Asteroids]
 <p>
@@ -25,7 +25,7 @@ Voidrunners" is a gripping sci-fi adventure game set in 2177. Players defy the c
 [Click Here to play the Game] <br>
 (https://megalord1977.github.io/Asteroids-VideoGame/)
 
-## Game 3 - Tic Tac Toe
+## Game 3 - Tic Tac Toe [unity]
 
 [Brief description of Tic Tac Toe]
 <p>
@@ -35,7 +35,7 @@ Tic Tac Toe: the ultimate battle of wits between two adversaries, armed with not
 (https://megalord1977.github.io/Tic-Tac-Toe-VideoGame-/)
 
 
-## Game 4 - Snakes
+## Game 4 - Snakes [unity]
 
 [Brief description of Snakes]
 <p>
