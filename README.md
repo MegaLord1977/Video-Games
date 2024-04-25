@@ -33,4 +33,14 @@ Tic Tac Toe: the ultimate battle of wits between two adversaries, armed with not
 </p>
 [Click Here to play the Game] <br>
 (https://megalord1977.github.io/Tic-Tac-Toe-VideoGame-/)
+
+
+## Game 4 - Snakes
+
+[Brief description of Snakes]
+<p>
+Snake: the ultimate fast paced snake game , eat the apples and complete the game for a secret ending !
+</p>
+[Click Here to play the Game] <br>
+(https://megalord1977.github.io/Snakes-Videogame/)
 </p>
